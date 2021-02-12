@@ -1,0 +1,153 @@
+.Tituloprincipal{
+    color: rgb(10, 61, 8);
+    padding: 5px;
+    margin: 5px;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.TituloB{
+    color: white;
+}
+#Todostextos{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+}
+.titulolacarta{
+    color: ghostwhite;
+}
+.subtitulo{
+    text-decoration: underline rgb(228, 18, 18);
+    text-align: left;
+}
+
+
+.fondoimg {
+    background: url("../images/inicio.jpg");
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+}
+
+h2{
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: overline;
+}
+h3{
+    text-align: justify;
+    padding: 3px;
+    margin: 3px;
+    text-decoration: underline;
+}
+.subtitulcontac{
+    text-decoration: none;
+    letter-spacing: opx;
+    color: rgb(189, 15, 15);
+}
+h4{
+    letter-spacing: 5px;
+    text-align: justify;
+}
+
+.contenedorcont{
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    padding: 5px;
+    border: 2px dotted black;
+    display: block;
+    align-content: center;
+}
+
+.Elementolacarta{
+    max-width: 900px;
+    height: auto;
+    background: rgb(243, 233, 217);
+    margin: 10px;
+    padding: 10px;
+    border:5px solid rgba(241, 142, 97, 0.877);
+    display: row;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Elemc{
+    flex-basis: 400px;
+    margin: 10px;
+    padding: 10px;
+    align-content: flex-end;
+    justify-content: end;
+    background: rgb(243, 233, 217);
+    border: 5px solid rgba(241, 142, 97, 0.877);
+}
+
+#galeria .col-lg-4{
+    padding: 25px;
+    margin: 0px;
+}
+#galeria img{
+    width: 100%;
+    height: 300px;
+}
+#galeria img:hover{
+    border: 3px solid rgb(17, 17, 17);
+}
+ul{
+    list-style: none;
+}
+
+.footeR div ul li a {
+    color: rgb(248, 238, 243);
+}
+.footeR h4{
+    text-align: justify;
+    margin: 5px;
+    padding: 5px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.footeR{
+    background: rgb(39, 167, 81);
+    margin: 0px;
+    padding: 0px;
+}
+#F{
+    background: rgb(39, 167, 81);
+}
+
+form{
+    max-width: 400px;
+    margin: 10px;
+    background: rgb(240, 105, 179);
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+h5{
+    color: rgb(245, 238, 238);
+    text-align: center;
+    font-size: 30px;
+    margin: 0px;
+    margin-bottom: 20px;
+}
+input, textarea{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    box-sizing: border-box;
+    font-size: 17px;
+    border: none;
+}
+textarea{
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+
+}
+#boton{
+    background: rgb(245, 238, 238);
+    padding: 15px;
+}

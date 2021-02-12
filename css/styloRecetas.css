@@ -1,0 +1,89 @@
+body {
+    background: #f3f1ef;
+    font-family: 'Quicksand', sans-serif;
+  }
+  
+.Tituloprincipal{
+    color: rgb(10, 61, 8);
+    padding: 5px;
+    margin: 5px;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+  
+h3{
+    color: #000000;
+    font-size: 30px;
+    text-decoration: underline;
+  }
+  
+.subtitulo {
+    color: #e00b64;
+    padding: 5px;
+    margin: 5px;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+p {
+    color: #e00b64;
+    font-weight: bold;
+  }
+  
+.textos {
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  
+ul li {
+    color: #137221;
+    font-weight: bold;
+    list-style: circle;
+    font-size: 17px;
+  }
+ol li {
+    color: #137221;
+    font-weight: bold;
+    list-style: circle;
+    font-size: 17px;
+}
+.recetas1 ul li {
+    list-style: none;
+    font-weight: normal;
+  }
+  
+section {
+    padding: 10px;
+    margin: 10px;
+  }
+
+.contenido{
+    margin: 20px;
+    margin-top: 10px;
+    padding: 20px;
+    border: 20px;
+}
+h4 {
+    color: #e00b64;
+    font-size: 20px;
+  }
+  
+.footeR div ul li a {
+    color: rgb(250, 242, 246);
+    font-weight: bold;
+  }
+  
+.footeR div ul li {
+    list-style: none;
+    color: white;
+  }
+  
+.footeR {
+    background: rgb(39, 167, 81);
+  }
+  
+.footeR h4 {
+    font-weight: bolder;
+    color: black;
+  }
